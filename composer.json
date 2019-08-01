@@ -1,7 +1,7 @@
 {
-    "name": "xamin/handlebars.php",
+    "name": "iamntz/handlebars.php",
     "description": "Handlebars processor for php",
-    "homepage": "https://github.com/XaminProject/handlebars.php",
+    "homepage": "https://github.com/iamntz/handlebars.php",
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
